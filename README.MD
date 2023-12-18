@@ -1,6 +1,6 @@
 # TSP
 
-## explaination
+## explanation
 
 ### Line 1-3: Importing Libraries
 
